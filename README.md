@@ -79,7 +79,8 @@
   <p>We may update this Privacy Policy from time to time. Any changes will be posted in the App or on this page with an updated date.</p>
 
   <h2>8. Contact</h2>
-  <p>If you have questions about this Privacy Policy, please open an issue in the GitHub repository.</p>
+  <p>If you have questions about this Privacy Policy, contact:<br>
+  <strong>Email:</strong> <a href="mailto:vakkaladpraveenkumar@gmail.com">vakkaladpraveenkumar@gmail.com</a></p>
 
   <div class="summary">
     <strong>Summary:</strong> Distance Travel Diary is a fully local app. Your path, distance, and travel history never leave your phone. No account, no cloud, no tracking by us.
